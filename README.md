@@ -508,7 +508,7 @@ streamlit run app.py
 
 ## 8. 시연 동영상
 
-- YouTube 시연 영상: **[구로구 실거래가 대시보드 데모](https://youtu.be/your-demo-link)**  
+- YouTube 시연 영상: **[구로구 실거래가 대시보드 데모](https://youtu.be/8ehAwfzVV-8)**  
 
 > 실제 제출 시 `your-demo-link` 부분을 팀의 실제 YouTube 링크로 교체해주세요.
 
